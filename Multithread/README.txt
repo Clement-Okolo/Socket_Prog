@@ -14,9 +14,9 @@ So you do not need to enter IP address and port to start chatting.
 You will be connected automatically to the server.
 The aim of this is to ease the use of the online chat system.
 
+
 How to run server file :
 $ python server.py
-
 
 How to run client file:
 $ python client.py
