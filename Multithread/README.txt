@@ -1,4 +1,4 @@
-# Multi-Thread Communication Server**
+# Multi-Thread Communication Server
 
 One core function is implemented:
 
